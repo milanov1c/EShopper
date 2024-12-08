@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### fake api used
+in order to run this project install this api https://fakeapi.platzi.com/en/about/introduction/
